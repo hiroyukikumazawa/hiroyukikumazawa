@@ -94,14 +94,15 @@
     </picture>
 </div>
 
-## My Part-Time Open Source Projects
-
-- [PairTracker](https://github.com/PairTracker/) - Track and explore all trading pairs across global Automated Market Makers instantly.
-- [DeReview](https://github.com/DeReview/) - Decentralized Trustless Review Platform.
-- [DexHouse](https://github.com/DexHouseOrg/) - All in one place for all your DEX needs.
 
 ## Github Contributions
+- [DigitalGuards](https://github.com/DigitalGuards/) - Webwallet and Explorer for QRL ZOND network.
 - [Akash Network](https://github.com/akash-network/) - The World's Premier Decentralized Compute Marketplace.
 - [Xelis](https://github.com/xelis-project/) - Private chain using BlockDAG and Smart Contracts.
 - [Gno & Gno.land](https://github.com/gnolang/) - Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.
 - [Ignite](https://github.com/ignite/) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK.
+
+## My Part-Time Open Source Projects
+- [PairTracker](https://github.com/PairTracker/) - Track and explore all trading pairs across global Automated Market Makers instantly.
+- [DeReview](https://github.com/DeReview/) - Decentralized Trustless Review Platform.
+- [DexHouse](https://github.com/DexHouseOrg/) - All in one place for all your DEX needs.
