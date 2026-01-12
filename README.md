@@ -42,11 +42,11 @@
     <img width="12" />
     <picture>
         <source media="(prefers-color-scheme: dark)"
-            srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+            srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
         <source media="(prefers-color-scheme: light)"
-            srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"
-            alt="python logo" />
+            srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+            height="30" alt="csharp logo" />
     </picture>
     <img width="12" />
     <picture>
